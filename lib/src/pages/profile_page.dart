@@ -28,6 +28,7 @@ class Profile extends StatelessWidget {
           Settings(),
           SizedBox( height: 40.0 ),
           LogOptions(),
+          SizedBox( height: 40.0 ),
         ]
       ),
     );
